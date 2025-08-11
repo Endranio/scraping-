@@ -33,8 +33,11 @@ OPENAI_API_KEY=your_openrouter_api_key_here
 ```
 
 3. Run server:
-
+   
+```
 npm run dev
+
+```
 
 ---
 

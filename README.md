@@ -1,8 +1,8 @@
-Berikut README sederhana untuk project scraper + AI summary-mu:
+
 
 ---
 
-# eBay Nike Scraper with AI Summary
+# eBay Nike Scraper
 
 Simple Express server to scrape Nike product listings from eBay, get detailed descriptions using Puppeteer, and generate summaries using OpenRouter AI (deepseek model).
 

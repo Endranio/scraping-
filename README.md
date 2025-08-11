@@ -79,12 +79,3 @@ Response format:
 * AI summary uses OpenRouter deepseek-chat-v3-0324 model.
 * Handle API rate limits and errors gracefully.
 
----
-
-## License
-
-MIT License
-
----
-
-Kalau perlu aku buatkan versi lebih lengkap atau dengan instruksi deploy tinggal bilang ya!
